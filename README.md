@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Bharath, a Software Engineer living in Bangalore 🏙️
+I'm Bharath, a Product Manager living in Bangalore 🏙️
 
-- 🔭 I’m currently working on something new ✨
-- 📫 How to reach me: bharath@hey.com or [@bharath31_](https://twitter.com/bharath31_)
+🪙 investing in crypto, 🧱 building LEGO sets,  🎰 playing poker, and 🏎️ watching F1 
+
+- 🔭 Current: [Appsmith](https://github.com/appsmithorg) | Past: [Branch](https://github.com/BranchMetrics), [Hiver](https://github.com/GrexIt)
+- 📫 Reach me: hi@bharath.sh or [@bharath31_](https://twitter.com/bharath31_)
