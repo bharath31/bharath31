@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hello 👋🏽  I’m Bharath
 
-I'm Bharath, a Product Manager living in Bangalore 🏙️
+Building products from Bengaluru, India 🇮🇳
 
-🪙 investing in crypto, 🧱 building LEGO sets,  🎰 playing poker, and 🏎️ watching F1 
+💼 Product Manager,  🧱 LEGO builder,  🏎️  F1 fan,  🌱 Optimizing for happiness
 
-- 🔭 Current: [Appsmith](https://github.com/appsmithorg) | Past: [Branch](https://github.com/BranchMetrics), [Hiver](https://github.com/GrexIt)
+- 🔭 Current: [Okta](https://okta.com) | Past: [Appsmith](https://appsmith.com), [Hiver](https://hiverhq.com), [Branch](https://branch.io)
 - 📫 Reach me: hi@bharath.sh or [@bharath31_](https://twitter.com/bharath31_)
